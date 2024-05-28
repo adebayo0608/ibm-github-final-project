@@ -4,9 +4,7 @@ This is a simple interest calculator that computes the interest based on the pri
 
 ## Formula
 
-\[
-\text{Simple Interest} = P \times T \times R
-\]
+Simple Interest = P * T *  R
 
 where:
 - \( P \) is the principal amount. 💰
